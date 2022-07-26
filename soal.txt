@@ -1,0 +1,10 @@
+kasus
+1. Buatlah high level flow architecture diagram untuk kasus berikut ini. 
+2. buatlah aplikasi java untuk mengambil data txt dari local folder(txt akan diberikan), untuk dimasukkan ke DB(lokasi DB akan diberikan, 
+dipersilahkan untuk membuat table sendiri)(asumsi aplikasi terschedule sehari sekali)
+3. buatlah aplikasi webpage hanya untuk menampilkan datatable dari DB sesuai dengan txt yang diberikan
+4. (bonus soal). tambahkan fitur update & delete pada webpage tersebut (yang akan mengupdate ke DB)
+
+notes:
+diperbolehkan untuk menggunakan internet
+diperbolehkan menggunakan bahasa pemrograman/library/framework apapun
